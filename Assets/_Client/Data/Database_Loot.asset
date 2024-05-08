@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6ae395b21114d38a6f17460fd2efc9c, type: 3}
+  m_Name: Database_Loot
+  m_EditorClassIdentifier: 
+  _id: 
+  _lootEntities:
+  - _name: Iron Sword
+    _id: 1
+    _maxStack: 1
+    _category: 2
+  - _name: Leather Shield
+    _id: 2
+    _maxStack: 1
+    _category: 1
+  - _name: Lesser Healing Potion
+    _id: 3
+    _maxStack: 10
+    _category: 3
+  - _name: Ruby
+    _id: 4
+    _maxStack: 1
+    _category: 4
+  - _name: Steel Bow
+    _id: 6
+    _maxStack: 1
+    _category: 2
+  - _name: Chainmail Armor
+    _id: 7
+    _maxStack: 1
+    _category: 1
+  - _name: Healing Potion
+    _id: 8
+    _maxStack: 10
+    _category: 3
+  - _name: Sapphire
+    _id: 9
+    _maxStack: 1
+    _category: 4
+  - _name: Mithril Staff
+    _id: 11
+    _maxStack: 1
+    _category: 2
+  - _name: Plate Armor
+    _id: 12
+    _maxStack: 1
+    _category: 1
+  - _name: Superior Healing Potion
+    _id: 13
+    _maxStack: 10
+    _category: 3
+  - _name: Diamond
+    _id: 14
+    _maxStack: 1
+    _category: 4
+  - _name: Gold Coin
+    _id: 15
+    _maxStack: 1000
+    _category: 0
+  - _name: Wooden Club
+    _id: 16
+    _maxStack: 1
+    _category: 2
+  - _name: Cloth Armor
+    _id: 17
+    _maxStack: 1
+    _category: 1
+  - _name: Greater Mana Potion
+    _id: 18
+    _maxStack: 10
+    _category: 3
+  - _name: Emerald
+    _id: 19
+    _maxStack: 1
+    _category: 4
+  - _name: Magic Essence
+    _id: 20
+    _maxStack: 1000
+    _category: 5
+  - _name: Legendary Sword
+    _id: 21
+    _maxStack: 1
+    _category: 2
+  - _name: Dragon Scale Armor
+    _id: 22
+    _maxStack: 1
+    _category: 1
+  - _name: Superior Mana Potion
+    _id: 23
+    _maxStack: 10
+    _category: 3
+  - _name: Amethyst
+    _id: 24
+    _maxStack: 1
+    _category: 4
+  - _name: Enchanted Crystal
+    _id: 25
+    _maxStack: 1000
+    _category: 5
+  - _name: Wooden Chest
+    _id: 26
+    _maxStack: 100
+    _category: 6
+  - _name: Iron Chest
+    _id: 27
+    _maxStack: 100
+    _category: 6
+  - _name: Ornate Chest
+    _id: 28
+    _maxStack: 100
+    _category: 6
